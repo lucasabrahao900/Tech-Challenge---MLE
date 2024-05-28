@@ -32,7 +32,7 @@ Acesse a rota http://127.0.0.1:8000/docs.
 
 Você acessará a documentação interativa (Criada com Swagger)
 
-![Description of the image](./FastAPISwagger.png)
+![Description of the image](./app/FastAPISwagger.png)
 
 ## Bibliotecas utilizadas
 - FastAPI
