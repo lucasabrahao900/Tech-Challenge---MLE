@@ -13,9 +13,9 @@ O Projeto busca os dados no site da Embrapa, em seguida é feito o tratamento do
 
 ## Instalação
 
-Clone o repositorio a partir do link: LINK AQUI
+Clone o repositorio a partir do link: git@github.com:lucasabrahao900/Tech-Challenge---MLE.git
 ```bash
-git clone git@github.com/LINK AQUI
+git clone git@github.com:lucasabrahao900/Tech-Challenge---MLE.git
 ```
 Instale as dependdencias o projeto:
 ```bash
